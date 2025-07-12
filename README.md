@@ -1,5 +1,5 @@
-##🧑‍🎓 Student Management System
-```
+### 🧑‍🎓 Student Management System
+```markdown
 This is a simple console-based Student Management System written in **Java**.
 It allows users to add, view, search, delete, and update
 student records using a menu-driven interface.
