@@ -7,9 +7,9 @@ It allows users to add, view, search, delete, and update
 student records using a menu-driven interface.
 
 ---
-
+````
 ## 🚀 Features
-
+```
 - ➕ Add a new student (Roll No, Name, Grade)
 - 📋 View all student records
 - 🔍 Search for a student by roll number
@@ -18,19 +18,20 @@ student records using a menu-driven interface.
 - 🚪 Exit the program safely
 
 ---
+````
 
 ## 💻 Technologies Used
-
+```
 - Java SE
 - Scanner class (for user input)
 - ArrayList (to store student data)
 - OOP concepts (getters, setters, encapsulation)
 
 ---
-
+````
 ## 📂 Project Structure
 
-
+```
 
 StudentManagementSystem/
 │
@@ -41,16 +42,16 @@ StudentManagementSystem/
 
 
 ---
-
+````
 ## 📦 How to Run
-
+```
 ### ✅ Prerequisites
 - Java installed (JDK 8 or higher)
 - IDE like IntelliJ / VS Code / Eclipse OR terminal
-
+````
 ### ▶️ Run using Terminal
 
-```bash
+```
 javac Student.java Main.java
 java Main
 ````
