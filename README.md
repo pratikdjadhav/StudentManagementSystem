@@ -1,8 +1,3 @@
-Absolutely, Pratik! Here's a clean and beginner-friendly **`README.md`** file for your **Student Management System** Java project. You can copy this into your GitHub repo.
-
----
-
-## 📘 `README.md` — Student Management System (Java Console App)
 
 ```markdown
 # 🧑‍🎓 Student Management System
