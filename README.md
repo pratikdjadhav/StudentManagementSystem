@@ -35,7 +35,7 @@ student records using a menu-driven interface.
 
 ## 📂 Project Structure
 
-```
+
 
 StudentManagementSystem/
 │
@@ -43,7 +43,7 @@ StudentManagementSystem/
 ├── Student.java      # Student class with fields and methods
 ├── README.md         # Project documentation
 
-````
+
 
 ---
 
